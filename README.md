@@ -1,2 +1,2 @@
 # Profile-Card
-A small portfolio of mine.
+Here i've added a small profile card.
